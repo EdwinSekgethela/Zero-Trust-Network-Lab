@@ -5,9 +5,6 @@ A fully configured Zero Trust Network built from scratch in Cisco Packet Tracer.
 Implements the "never trust, always verify" principle across three security zones
 with three enforcement points.
 
-## Topology
-![Network Topology](screenshots/topology.png)
-
 ## What was built
 - 3 routers, 2 switches, 4 servers, 3 PCs
 - Internet → Edge Firewall → DMZ → Core Router → Internal zones
