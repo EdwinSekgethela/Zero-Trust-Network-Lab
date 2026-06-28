@@ -40,5 +40,5 @@ This is Day 1 of an ongoing CCNA lab series.
 Next lab: OSPF dynamic routing replacing static routes.
 
 ## About
-**Edwin Sekgethela** — Network Engineer | CCNA Candidate August 2026
+**Edwin Sekgethela** — Network Engineer | CCNA Candidate
 Built as part of a daily/weekly lab discipline toward CCNA certification.
